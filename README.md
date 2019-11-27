@@ -8,7 +8,7 @@ To create a React application, refer to [`getting started`](https://ej2.syncfusi
 
 ## App component 
 
-In `App.tsx` file, create the Syncfusion grid component using Class component.
+In `App.tsx` file, create the Syncfusion Grid component using Class component.
 
 Code snippet of `App.tsx` file:
 
@@ -45,7 +45,7 @@ export default class App extends React.Component<{}, {}>{
 
 ## Home Component
 
-In `Home.tsx` file, create the Syncfusion grid component using Functional component.
+In `Home.tsx` file, create the Syncfusion Grid component using Functional component.
 
 Code snippet of `Home.tsx` file:
 
