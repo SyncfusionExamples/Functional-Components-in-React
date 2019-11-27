@@ -6,7 +6,7 @@ A Functional Component accepts props as an argument and returns a React element.
 
 To create a React application, refer to [`getting started`](https://ej2.syncfusion.com/react/documentation/grid/getting-started/#enable-sorting) document.
 
-## App component 
+### App component 
 
 In `App.tsx` file, create the Syncfusion Grid component using Class component.
 
@@ -43,7 +43,7 @@ export default class App extends React.Component<{}, {}>{
 
 ```
 
-## Home Component
+### Home Component
 
 In `Home.tsx` file, create the Syncfusion Grid component using Functional component.
 
