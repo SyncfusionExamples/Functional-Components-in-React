@@ -1,0 +1,26 @@
+{
+  "name": "quickstart",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-react-buttons": "^17.3.27",
+    "@syncfusion/ej2-react-dropdowns": "^17.3.29",
+    "@syncfusion/ej2-react-grids": "^17.3.29",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts-ts": "3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "@types/react": "^16.9.13",
+    "@types/react-dom": "^16.9.4",
+    "typescript": "3.6.2"
+  }
+}
